@@ -19,7 +19,7 @@ Criação de um modelo de site com o propósito de aplicar todo o conhecimento d
 
 | Etapa         | Período                   | Atividades |
 |  :----:   |  :----:               | ----------- |
-| ETAPA 1       | 12/12/2021 - 18/12/2021   |HTML & CSS |
-| ETAPA 2       | 19/12/2021 - 25/12/2021   |JavaScript a linguagem da Web |
-| ETAPA 3       | 26/12/2021 - 01/01/2022   |Front end UI |
-| ETAPA 4       | 02/01/2022 - 08/01/2022   |Sites interativos, integrando o JavaScript ao Navegador |
+| ETAPA 1       | 12/2021   |HTML & CSS parte 1 |
+| ETAPA 2       | 12/2021   |HTML & CSS parte 2 |
+| ETAPA 3       | 12/2021   |HTML & CSS parte 3 |
+| ETAPA 4       | 12/2021   |HTML & CSS parte 4 |
